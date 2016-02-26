@@ -1,0 +1,20 @@
+{
+  "name": "nodeServer",
+  "version": "0.0.1",
+  "description": "내꺼닷!",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "corser": "^2.0.0",
+    "express": "^4.13.4",
+    "multer": "^1.1.0",
+    "socket.io": "^1.4.5",
+    "ws": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "강상규",
+  "license": "ISC"
+}
