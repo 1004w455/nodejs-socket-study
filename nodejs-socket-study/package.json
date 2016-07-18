@@ -1,7 +1,7 @@
 {
   "name": "nodeServer",
   "version": "0.0.1",
-  "description": "내꺼닷!",
+  "description": "내꺼닷!!!",
   "main": "index.js",
   "dependencies": {
     "body-parser": "^1.15.0",
